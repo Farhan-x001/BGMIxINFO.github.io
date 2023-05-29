@@ -1,0 +1,115 @@
+<style>
+    body {
+      colour: #FAF0E6;
+      background-color: #FAF0E6;
+      background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    
+    }
+    h1 {
+       text-align: center;
+       background-color: lightblue;
+       border: 2px solid red;
+       border-radius: 19px;
+       border-style: dotted;
+       padding: 50px;
+      color: white;
+      text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+      
+    }
+    h3 {
+      text-align: center;
+    }
+    div {
+      border: 3px solid grey ;
+      border-radius: 40px;
+      padding: 50px;
+      width: 80px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+       background-color: lightblue;
+       border: 2px solid red;
+       border-radius: 19px;
+       border-style: dotted;
+       padding: 50px;
+      color: white;
+    
+    }
+      footer {
+      background-color: #66CDAA;
+      padding: 10px;
+      text-align: center;
+      margin-top: 20px;
+      border-left: 5px solid red;
+      border-radius: 5px;
+    }
+    img {
+       
+       border: 15px solid gold ;
+       border-radius: 19px;
+       display: block;
+      margin-top: auto;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      transition: width 2s;
+      padding: px;
+      
+    }
+    p {
+     text-align: center;
+    }
+    .container {
+      margin: 20px;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      border: none;
+      color: white;
+      cursor: pointer;
+    }
+    
+    textarea, input[type="text"] {
+      display: block;
+      width: 100%;
+      padding: 5px;
+      margin-bottom: 10px;
+    }
+    con {
+      margin: 20px;
+    }
+    cont {
+      margin: 20px;
+    }
+    
+    h4 {
+       text-align: center;
+       background-color: lightblue;
+       border: 2px solid red;
+       border-radius: 19px;
+       border-style: dotted;
+       padding: 10px;
+      color: white;
+      text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+      
+    }
+    
+    iframe{
+       border: 10px solid lightyellow ;
+       border-radius: 19px;
+       display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 20px;
+      width: 80%;
+      transition: width 2s;
+    }
+    
+    footer p {
+      margin: 0;
+    }
+    
+    </style>
